@@ -18,6 +18,5 @@ Gem::Specification.new do |s|
   s.files = %w(
     lib/wkhtmltopdf-binary-aml.rb bin/wkhtmltopdf
     libexec/wkhtmltopdf-darwin-x86
-    libexec/wkhtmltopdf-linux-amd64
-    libexec/wkhtmltopdf-linux-x86)
+    libexec/wkhtmltopdf-linux-amd64)
 end
